@@ -17,20 +17,12 @@ Sol: cam_calib_OCV.ipynb (within the repo)
 Write a code for a singly linked list that stores data of type int (using struct). It should contain functions :
 
 Adding a new node, 
-
 Deleting a particular node (referenced by the location),
-
 Delete all the nodes from the list which contain a particular data say a number 5
-
 Delete the complete linked list
-
 Display the linked list
-
 Display the inverted linked list
-
 Display the total memory space occupied by the linked list
-
 Delete all the nodes from the list which contain a particular data say a number 5 and the next subsequent node
-
 
 Sol: SLL.c (within the repo)
