@@ -1,8 +1,3 @@
-Hacklab Solutions Pvt Ltd
-ASSIGNMENT- ML Intern
-
-
-
 Write a python script to automatically find the camera calibration parameters using a 6x8 checkerboard pattern. 
 
 Sol: cam_calib_OCV.ipynb (within the repo)
@@ -22,7 +17,4 @@ Sol: cam_calib_OCV.ipynb (within the repo)
 
 
 Write a code for a singly linked list that stores data of type int (using struct). It should contain functions :
-
-
-
 Sol: SLL.c (within the repo)
